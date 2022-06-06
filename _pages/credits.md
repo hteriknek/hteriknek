@@ -11,4 +11,4 @@ nav_order: 2
  
  The image for CS201 page is from [Anna Bilokh](https://www.istockphoto.com/portfolio/Anna_Bliokh?mediatype=photograph)
 
- The image for CS201 page is from [Maria Vonotna](https://www.istockphoto.com/portfolio/vonotna?mediatype=photography)
+ The image for CS201 page is from [Tetiana Lazunova](https://www.istockphoto.com/portfolio/Tartila?mediatype=illustration)
