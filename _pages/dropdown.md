@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
+title: misc
 nav: true
 nav_order: 3
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: useful links
+      permalink: /misc/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: intranet
+      permalink: /iitg/
 ---
