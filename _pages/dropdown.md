@@ -10,4 +10,7 @@ children:
     - title: divider
     - title: intranet
       permalink: /iitg/
+    - title: divider
+    - title: credits
+      permalink: /credits/
 ---
